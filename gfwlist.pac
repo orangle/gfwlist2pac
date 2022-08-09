@@ -1,10 +1,6 @@
 var proxy = 'SOCKS5 127.0.0.1:1080';
 var rules = [
     [
-        [],
-        []
-    ],
-    [
         [
             "aftygh.gov.tw",
             "aide.gov.tw",
@@ -82,7 +78,8 @@ var rules = [
             "yatsen.gov.tw",
             "yda.gov.tw",
             "youdao.com",
-            "zhongsou.com"
+            "zhongsou.com",
+            "qunar.com"
         ],
         [
             "000webhost.com",
